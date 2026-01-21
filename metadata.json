@@ -1,0 +1,6 @@
+
+{
+  "name": "VoxScribe AI",
+  "description": "A high-precision MP3 to text transcription tool powered by Gemini's native audio understanding. Transcribe audio files with professional accuracy without the need for manual API key entry.",
+  "requestFramePermissions": []
+}
